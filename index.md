@@ -1,6 +1,6 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
-carpentry: "swc"      # what kind of Carpentry (must be either "lc" or "dc" or "swc").
+carpentry: "dc"      # what kind of Carpentry (must be either "lc" or "dc" or "swc").
                       # Be sure to update the Carpentry type in _config.yml as well.  
 venue: "Genentech"    # brief name of host site without address (e.g., "Euphoric State University")
 address: "Genentech Gateway Campus, Building 82 - Room 14G (Golden Gate), 651 Gateway Blvd, South San Francisco CA, 94080" # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
@@ -11,7 +11,7 @@ humandate: "May 22-23, 2019" # human-readable dates for the workshop (e.g., "Feb
 humantime: "8:30 am - 5:00 pm Wed; 9:00 am - 5:00pm Thu"     # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2019-05-22 # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2019-05-23   # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Jeramia Ory"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+instructor: ["Jeramia Ory", "Kok Ben Toh"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Preethy Sasi", "Altaf Kassam", "Kiran Mukhyala"] # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["jeramia.ory@gmail.com"] # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes: https://pad.carpentries.org/2019-05-22-genentech # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
