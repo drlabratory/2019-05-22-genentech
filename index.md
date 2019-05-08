@@ -425,6 +425,7 @@ please preview your site before committing, and make sure to run
   </div>
 </div> {% comment %} End of 'OpenRefine' section. {% endcomment %}
 
+{% comment %}
 <div id="sql"> {% comment %} Start of 'SQL' section. {% endcomment %}
   <h3>SQL</h3>
   <p>
@@ -436,6 +437,7 @@ please preview your site before committing, and make sure to run
     <a href="https://sqlitebrowser.org/dl/">the link</a> and install it. 
   </p>
 </div>
+{% endcomment %}
 
 {% comment %}
 <div id="vm">
